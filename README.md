@@ -76,8 +76,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
