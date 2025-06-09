@@ -1,4 +1,15 @@
-<h2 align="center">Hi 👋! My name is Satyam and I'm a Software Developer from Dehradun, india</h2>
+<h2 align="center">Hi 👋! My name is Satyam and I'm a Software Developer from Dehradun, India</h2>
+
+<h3 align="center">{ "explorer", "innovator", "learner"}</h3>
+
+<div align="center" style="text-align: justify; max-width: 700px; margin: auto;">
+
+  🤖 I’m passionate about Gen-AI, LLMs, and their real-world applications.  
+  ☁️ Currently diving deep into the MERN stack, DevOps tools, and the Cloud space.  
+  🤝 I’m open to collaborating on projects involving exciting tech.  
+  🚀 Always learning, always building — and sharing my journey through GitHub.
+
+</div>
 
 ###
 
@@ -99,21 +110,31 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://instagram.com/_satyyxm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discordapp.com/users/your_user_id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:nautiyalsatyam01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-nautiyal-378770254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
+
 
 ###
 
 <br clear="both">
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyyam01/satyyam01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyyam01/satyyam01/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/satyyam01/satyyam01/output/github-snake.svg" />
 </picture>
 
 ###
+
