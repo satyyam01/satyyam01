@@ -61,7 +61,7 @@
 </td>
 
 <td valign="middle" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjNGdsbmN4d3IxbjExb3lzNXl6bG9sbTdoMHd5Zzg0OGRhZzJ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" width="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjNGdsbmN4d3IxbjExb3lzNXl6bG9sbTdoMHd5Zzg0OGRhZzJ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" width="180" height="180" />
 </td>
 </tr>
 </table>
